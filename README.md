@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
