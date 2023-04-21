@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
