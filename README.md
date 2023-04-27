@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add TensorBoard Docs integrations page (#7248)
