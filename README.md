@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+fix yolo classify model loading error (#9196)
