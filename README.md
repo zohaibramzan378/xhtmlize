@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Clean up unused imgsz (#7771)
