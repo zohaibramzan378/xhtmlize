@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
