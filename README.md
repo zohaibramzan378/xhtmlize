@@ -1,1 +1,1 @@
-fix non-coco val
+Fix heatmaps width-height order bug (#7184)
