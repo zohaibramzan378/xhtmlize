@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
