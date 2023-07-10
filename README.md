@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Elaborate Train and Predict mode docs arguments (#8137)
