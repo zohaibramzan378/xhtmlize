@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add dota8.yaml and O tests (#7394)
