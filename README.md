@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add estimate_speed(region_color) parameter (#8285)
