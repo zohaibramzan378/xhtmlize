@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
