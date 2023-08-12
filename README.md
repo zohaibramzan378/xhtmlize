@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
