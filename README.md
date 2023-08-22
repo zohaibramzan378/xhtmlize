@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Fix test_mlflow_keep_run_active() (#8868)
