@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix OBB xywh-angle concatenation bug (#7404)
