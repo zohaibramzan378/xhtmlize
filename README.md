@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix OBB xywh-angle concatenation bug (#7404)
