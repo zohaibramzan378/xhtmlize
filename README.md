@@ -1,1 +1,1 @@
-fix resume training
+Add OBB benchmarks to CI (#7777)
