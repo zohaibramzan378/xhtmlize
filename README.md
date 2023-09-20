@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+fix val each epoch
