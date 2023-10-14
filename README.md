@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+New HUB Cloud Training docs page (#8174)
