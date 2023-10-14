@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Fix OpenVINO missing batch-size bug (#9264)
