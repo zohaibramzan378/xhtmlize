@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Elaborate Train and Predict mode docs arguments (#8137)
