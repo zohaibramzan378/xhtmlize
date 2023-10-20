@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
