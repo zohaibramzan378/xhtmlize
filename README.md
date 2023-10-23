@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Clean up unused imgsz (#7771)
