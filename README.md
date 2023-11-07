@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
