@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Add type hinting to explorer.py (#7388)
