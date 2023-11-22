@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add type hinting to explorer.py (#7388)
