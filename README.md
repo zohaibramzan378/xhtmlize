@@ -1,1 +1,1 @@
-fix predict with class filter
+Retry once for Docker CI failures (#8164)
