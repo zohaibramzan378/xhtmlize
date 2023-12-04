@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
