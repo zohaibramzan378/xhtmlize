@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
