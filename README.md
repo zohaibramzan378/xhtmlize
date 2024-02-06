@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix heatmaps width-height order bug (#7184)
