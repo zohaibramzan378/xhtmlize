@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
