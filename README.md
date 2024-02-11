@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update mkdocs.yml (#7693)
