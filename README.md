@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix heatmaps width-height order bug (#7184)
