@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update CITATION.cff with cffinit corrections (#8658)
