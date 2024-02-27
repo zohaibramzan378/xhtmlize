@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Fixed RTDETR GFLOPs bug (#7309)
