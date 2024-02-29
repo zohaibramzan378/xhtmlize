@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
