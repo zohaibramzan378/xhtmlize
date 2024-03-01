@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
