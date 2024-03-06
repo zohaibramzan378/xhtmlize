@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add PR Summary step to Ultralytics Actions (#7675)
