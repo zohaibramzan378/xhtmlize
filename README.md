@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
