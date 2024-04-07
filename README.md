@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+New test for labels and crops (#8861)
