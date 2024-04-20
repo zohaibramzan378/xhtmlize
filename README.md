@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+docs: update view-results-in-terminal.md (#66)
