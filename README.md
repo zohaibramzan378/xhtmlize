@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
