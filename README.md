@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Update fraction arg to employ a random selection (#8234)
