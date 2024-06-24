@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add Amazon Sagemaker Docs integrations page (#7293)
