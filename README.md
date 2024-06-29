@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
