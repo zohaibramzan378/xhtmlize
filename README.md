@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
