@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add PaddlePaddle Docs Integrations Page (#8858)
