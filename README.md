@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
