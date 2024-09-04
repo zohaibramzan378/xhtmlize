@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
