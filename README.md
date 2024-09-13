@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
