@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix ONNX GPU inference bug (#6840)
