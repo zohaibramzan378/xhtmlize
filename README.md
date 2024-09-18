@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Improve Coral Edge TPU guide (#8160)
