@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Pass callbacks to validator (#7320)
