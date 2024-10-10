@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
