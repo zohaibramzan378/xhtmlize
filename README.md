@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update inference.cpp (bug) (#7279)
