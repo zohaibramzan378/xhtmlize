@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
